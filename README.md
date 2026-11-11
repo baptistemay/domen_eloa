@@ -6,7 +6,7 @@ A personnal repo that keeps track of my work and learning.
 Currently, you will find the following:
 
 
-                              - - - > An "educational" folder, where I put exercices I've solved < - - -
+- - - > An "educational" folder, where I put exercices I've solved < - - -
       
 For the large part, they are solutions I've come to for exercices from the book "Python Programming Exercises, Gently Explained", by Ai Sweigart.
       > You can read this book for free (as well others from the same author) here : https://inventwithpython.com/pythongently/
