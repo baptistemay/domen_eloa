@@ -18,7 +18,7 @@ For the large part, they are solutions I've come to for exercices from the book 
 As those are designed for practice purposes, you should notice strange design choices, behaviors and restrictions here and there.
       > Keep in mind, this is intentional : They are practice exercices. For exemple, some of them explicitly ask for you to recreate functions that already exist.
       
-Currently, they are mostly non deployable (is this the good term ?), in the sense that while the code is correct, you should not launch them and except anything to happen. I will add a bit of interactivity in the futur, as well as further changes to give thoses small scripts more interest and see how I improved.
+Currently, they are mostly non deployable (is this the good term ?), in the sense that while the code is correct, you should not launch them and except anything to happen. I will add a bit of interactivity in the futur, as well as further changes to give those small scripts more interest and see how I improved.
 
 
 \INFO
