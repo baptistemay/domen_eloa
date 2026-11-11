@@ -9,6 +9,8 @@ Currently, you will find the following:
 
 
 1\ An "educational" folder, where I put exercices I've solved :
+-
+
       
 For the large part, they are solutions I've come to for exercices from the book "Python Programming Exercises, Gently Explained", by Ai Sweigart.
       > You can read this book for free (as well others from the same author) here : https://inventwithpython.com/pythongently/
@@ -20,7 +22,10 @@ Currently, they are mostly non deployable (is this the good term ?), in the sens
 
 
 \INFO
+-
+
 
 If you like codewars, feel free to add me :
 https://www.codewars.com/users/Baptistemay.ad@proton.me
+
 ![Codewars](https://github.r2v.ch/codewars?user=Baptistemay.ad@proton.me)   
